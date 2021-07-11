@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=5V Pin=C5-1
+Removed Pin From Net: NetName=5V Pin=P2-6
+Removed Pin From Net: NetName=5V Pin=P2-8
+Removed Pin From Net: NetName=5V Pin=P7-1
+Removed Pin From Net: NetName=5V Pin=P8-1
+Removed Pin From Net: NetName=5V Pin=P9-1
+Removed Pin From Net: NetName=5V Pin=P10-1
+Removed Pin From Net: NetName=5V Pin=P11-1
+Removed Pin From Net: NetName=Servo1 Pin=R6-2
+Removed Pin From Net: NetName=5V Pin=RGB1-1
+Removed Pin From Net: NetName=5V Pin=U1-4
+Removed Pin From Net: NetName=Servo1 Pin=U3-10
+Added Pin To Net: NetName=Servo1 Pin=C5-1
+Added Pin To Net: NetName=Servo1 Pin=P2-6
+Added Pin To Net: NetName=Servo1 Pin=P2-8
+Added Pin To Net: NetName=Servo1 Pin=P7-1
+Added Pin To Net: NetName=Servo1 Pin=P8-1
+Added Pin To Net: NetName=Servo1 Pin=P9-1
+Added Pin To Net: NetName=Servo1 Pin=P10-1
+Added Pin To Net: NetName=Servo1 Pin=P11-1
+Added Pin To Net: NetName=5V Pin=R6-2
+Added Pin To Net: NetName=Servo1 Pin=RGB1-1
+Added Pin To Net: NetName=Servo1 Pin=U1-4
+Added Pin To Net: NetName=5V Pin=U3-10
+Change Net Name : Old Net Name=5V New Net Name=Servo1
+Change Net Name : Old Net Name=Servo1 New Net Name=5V
+Added Room: Name=»úÐµ±ÛÀ©Õ¹°å2.0

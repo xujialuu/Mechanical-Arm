@@ -1,0 +1,2 @@
+Remove Pin=P12-2 From Net=RXD
+Remove Pin=P12-3 From Net=TXD

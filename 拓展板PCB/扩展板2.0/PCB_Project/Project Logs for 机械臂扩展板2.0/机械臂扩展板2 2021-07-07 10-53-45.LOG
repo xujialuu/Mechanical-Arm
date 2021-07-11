@@ -1,0 +1,11 @@
+Added Component: Designator=P6(HDR2.54-LI-5P)
+Add component (AddParameter): Name = "BOM名称"; Value = "5P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Servo1 Pin=P6-1
+Added Pin To Net: NetName=ICEDAT Pin=P6-2
+Added Pin To Net: NetName=ICECLK Pin=P6-3
+Added Pin To Net: NetName=ICERST Pin=P6-4
+Added Pin To Net: NetName=GND Pin=P6-5
+Added Member To Class: ClassName=机械臂扩展板2.0 Member=Component P6 Header 5
+Added Room: Name=机械臂扩展板2.0
